@@ -12,7 +12,8 @@ const Header = props => (
         <p>
           I'm currently a Post-Doctoral Researcher with{' '}
           <a href="http://www.idiap.ch/~gatica/">Daniel Gatica-Perez</a> at the{' '}
-          <a href="https://www.idiap.ch/en">Idiap Research Institute</a>
+          <a href="https://www.idiap.ch/en">Idiap Research Institute</a> My
+          resume can be found <a href="../files/resume.pdf">here</a>.
         </p>
       </div>
     </div>
