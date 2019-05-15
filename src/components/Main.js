@@ -43,6 +43,14 @@ class Main extends React.Component {
             impressions in two workplace situations critical to hospitality
             industry.
           </p>
+          <p>
+            Before my PhD, I did my Masters in Computing from the{' '}
+            <a href="https://www.comp.nus.edu.sg/">School of Computing</a>
+            at the{' '}
+            <a href="http://www.nus.edu.sg/">
+              National University of Singapore
+            </a>
+          </p>
           {close}
         </article>
 
